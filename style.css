@@ -1,0 +1,116 @@
+.travel_mainDiv{
+    border: 1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+
+.travel_mainDiv img{
+    width: 100%; 
+}
+
+.travel_mainDiv hr{
+    width: 230px;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p{
+    margin-left: 20px;
+}
+
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i{
+    float: right;
+}
+
+.movie_text span{
+    color: #ff7700;
+}
+
+.environment_li{
+    margin-top: 13px;
+}
+
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img{
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.environment_li p{
+    margin-top: 10px;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+h6{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+}
+
+#Abt{
+    margin-bottom: 50px;;
+}
+
+h8{
+    font-family: 'Goblin One', cursive;
+    font-size: 25px;
+}
+
+h9{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+   
+}
+
+h10{
+    font-family: 'Pacifico', cursive;
+    font-size: 20px;
+}
+
+.header_entrepreneur{
+    line-height: 2;
+}
+
+.modal-body{
+    text-align: center;
+}
+
+.book{
+    cursor: pointer;
+}
+
+.book hr{
+    margin-bottom: 10px;
+}
+
+.modal-content{
+    margin-top: 100px;
+}
+
+.img_modal{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.p_modal{
+    margin-top: 10px;
+}
